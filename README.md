@@ -43,5 +43,5 @@ for reset HWID user, change whitelist to "RESET"
 
 Now all is done, you can edit it if you want !
 
-Made By Misaki Dev
+Made By Misakiiii
 
